@@ -2,7 +2,7 @@
 
 This repository is in reference to the Graduate Remote Internship Program of The Sparks Foundation.
 
-The task-3 deals with predicting the score of a student based on the number of hours of study.
+The task-3 deals with predicting the optimal number of clusters to represent the dataset.
 
 ## Installations ## 
 
